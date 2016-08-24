@@ -1,0 +1,22 @@
+
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456789', 'Cabbage', 10);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456001', 'Turnip', 11);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456002', 'Radish', 12);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456003', 'Carrot', 13);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456004', 'Parsnip', 14);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456005', 'Beetroot', 15);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456006', 'Lettuce', 16);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456007', 'Beans', 17);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456008', 'Broad beans', 18);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456009', 'Peas', 19);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456010', 'Potato', 20);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456011', 'Eggplant', 21);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456012', 'Tomato', 22);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456013', 'Cucumber', 23);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456014', 'Pumpkin', 24);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456015', 'Onion', 25);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456016', 'Garlic', 26);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456017', 'Leek', 27);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456018', 'Pepper', 28);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456019', 'Spinach', 29);
+insert into T_PRODUCT (NUMBER, NAME, PRICE) values ('123456020', 'Yam', 30);
